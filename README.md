@@ -4,4 +4,4 @@ This project implements a LightGCN-based recommender system using PyTorch. The g
 where users and items are treated as nodes, and interactions are edges.
 LightGCN Implementation: A graph-based recommendation model that removes non-linear activations and focuses on simpler propagation mechanisms.
 Self-Supervised Learning Task: Adds a self-supervised task to improve the recommendation performance.
- 
+I used AI Alchemy's youtube tutorial to guide me through this project.
